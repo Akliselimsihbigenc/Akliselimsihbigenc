@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akliselimsihbigenc
-- 👀 I’m interested in Developing Ais and Cyber Security
+- 👀 I’m interested in Developing Ai tools and Cyber Security
 - 🌱 I’m currently learning programming
 - 📫 How to reach me akliselimsahibigenc@gmail.com
 
